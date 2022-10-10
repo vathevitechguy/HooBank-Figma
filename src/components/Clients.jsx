@@ -1,7 +1,8 @@
 import React from 'react';
+import styles, { layout } from '../style';
 
 const Clients = () => {
-  return <div>Clients</div>;
+  return;
 };
 
 export default Clients;
